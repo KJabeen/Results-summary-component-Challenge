@@ -1,9 +1,27 @@
-# Results-summary-component-Challenge
-Challenge from Frontend Mentor Completed ( using Responsive Web page for laptop and mobile devices)
+**Frontend Mentor - Results-summary-component-Challenge**
 
-#1  build body bordery.
-#2  build one inside containerA in center of the body. Use display grid and justify content and align-items in body to make this container in center.
-#3  Now bild two Containers inside A having same widthand height. Dont forget to mention minimum, maximum width and minimum heigt other than width value. 
-#4  Beautify it according to given instrutions. 
-#6  Use list option in html.
-#7  Use media query for Responsive Web Page. 
+This is a solution to the **Results-summary-component-Challenge** on Frontend Mentor. Frontend Mentor challenges are realistic projects.
+
+Users should be able to view the optimal layout depending on their device's screen size.
+
+
+**Desktop version**
+
+![image](https://github.com/KJabeen/Results-summary-component-Challenge/assets/126177876/7cf57697-8fd7-4e70-98e2-87e841d059cb)
+
+**Mobile version**
+
+![image](https://github.com/KJabeen/Results-summary-component-Challenge/assets/126177876/54df7eb7-3c39-4cdc-9e33-5677d950adef)
+
+
+**My work based on**
+
+  Semantic HTML5 markup
+    
+  CSS custom properties
+
+  Flexbox
+  
+  Responsive web page
+
+              **Author:Kokab Jabeen**
